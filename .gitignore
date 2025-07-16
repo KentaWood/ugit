@@ -1,0 +1,41 @@
+# My Gitignore
+*.pyc
+__pycache__
+*.egg-info/
+venv/
+
+# general ignors in a python project recommended by chatgpt(4o)
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Test results
+*.coverage
+.coverage.*
+.cache
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# VSCode settings (if applicable)
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Temporary files
+tmp/
+*.log
+*.swp
+ 
