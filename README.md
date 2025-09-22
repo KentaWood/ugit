@@ -1,7 +1,3 @@
-Here’s a draft `README.md` for your project. I tailored it based on the code you uploaded (`setup.py`, `base.py`, `cli.py`, `data.py`, `diff.py`, `remote.py`) which implement a simplified Git-like version control system called **ugit**.
-
----
-
 # ugit
 
 A lightweight, educational implementation of a Git-like version control system written in Python.
