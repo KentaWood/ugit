@@ -110,17 +110,13 @@ setup.py         # Packaging and installation config
 
 ---
 
-## Educational Purpose
+## Credits
 
-This project is for **learning Git internals**. It is **not a production-ready VCS**.
-It demonstrates how concepts like *content-addressable storage*, *commits*, *branches*, and *merges* can be built from scratch in a few hundred lines of Python.
-
----
-
-## License
+This project is based on **[Nikita Leshenko’s “Build Your Own Git” guide](https://www.leshenko.net/p/ugit/)**, which walks through creating a minimal version-control system from scratch in Python.
+My implementation follows and extends concepts from that guide.
 
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-Do you want me to also add **example commit graph screenshots and diff outputs** in the README so it’s more visual, or keep it text-only?
+Would you like me to **add a "Learning Notes" section** where you can highlight what you personally learned while building this (like trees, commits, branching, merges), so the README doubles as a portfolio piece for recruiters?
